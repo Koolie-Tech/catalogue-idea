@@ -1,7 +1,7 @@
 const productDetails = [
 {
   name: "Koolie Wale Sahayak",
-  price: 300,
+  price: 220,
   imageUrl:
   "https://siddh-kivtechs.github.io/image/ai-generated-7770511.jpg",
   qty: 1,
@@ -10,7 +10,7 @@ const productDetails = [
   " Get Base Services " },
 {
   name: "Coolio",
-  price: 500,
+  price: 280,
   imageUrl:
   "https://siddh-kivtechs.github.io/image/ai-generated-7963097.webp",
   qty: 1,
@@ -19,7 +19,7 @@ const productDetails = [
   " Get Cooliewale captain with Premium Services" },
 {
   name: " Porter",
-  price: 800,
+  price: 300,
   imageUrl:
   "https://siddh-kivtechs.github.io/image/woman-7837348.webp",
   qty: 1,
