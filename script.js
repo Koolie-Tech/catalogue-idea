@@ -1,6 +1,6 @@
 const productDetails = [
 {
-  name: "KT BASE",
+  name: "Koolie Wale Sahayak",
   price: 300,
   imageUrl:
   "https://siddh-kivtechs.github.io/image/ai-generated-7770511.jpg",
@@ -9,23 +9,23 @@ const productDetails = [
   des:
   " Get Base Services " },
 {
-  name: "KT PREMIUM",
+  name: "Coolio",
   price: 500,
   imageUrl:
   "https://siddh-kivtechs.github.io/image/ai-generated-7963097.webp",
   qty: 1,
   heading: "Kooliewale Premium Services",
   des:
-  " Get Premium Services" },
+  " Get Cooliewale captain with Premium Services" },
 {
-  name: "KT GOLDEN ",
+  name: " Porter",
   price: 800,
   imageUrl:
   "https://siddh-kivtechs.github.io/image/woman-7837348.webp",
   qty: 1,
   heading: "Koolie Wale Golden Service",
   des:
-  " Get Over the Top Services" }];
+  " Get Cooliewale captain with the Top Services" }];
 
 
 
